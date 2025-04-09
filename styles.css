@@ -9,10 +9,7 @@
 
 }
 
-body {
-    font-size: 1rem;
-    font-family: 'Montserrat';
-}
+
 
 header {
     background-color: #ffffff;
@@ -196,4 +193,9 @@ h2 {
 }
 .alto-contraste .fundo-galeria {
     background: none;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Montserrat';
 }
